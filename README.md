@@ -5,7 +5,7 @@
 
 <a href='https://www.linkedin.com/in/parra-camilo'>Linkedin</a>✨ | <a href='https://parracamilo.tk'>Portafolio</a>💻 | <a href='https://parracamilo.tk'>Portafolio</a>
 <hr style="border: 1px solid black"/>
-<p>Web developer with experience in PHP frameworks like Laravel and frontend development with VueJS.
+<p align="justify">Web developer with experience in PHP frameworks like Laravel and frontend development with VueJS.
 Capoeirista for more than 10 years and lover of sports in general.
 Open to new opportunities for professional and personal growth.</p>
 <p>Desarrollador web con experiencia en frameworks PHP como Laravel y desarrollo frontend con VueJS.

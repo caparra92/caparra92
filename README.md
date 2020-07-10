@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/19290557/87207063-60760980-c2e1-11ea-8e13-1ca181824c70.png" width="300" height="296"/>
 
-<div style="text-align: center; margin: 0 auto width: 100%"> <p size="16">Hi there, my name is Camilo Parra</p> 👋</div>
+<h1 style="text-align:center;">Hi there, my name is Camilo Parra/h1>👋
 <hr/>
 
 <a href='https://www.linkedin.com/in/parra-camilo'>Linkedin</a>✨ | <a href='https://parracamilo.tk'>Portafolio</a>💻 | <a href='https://parracamilo.tk'>Portafolio</a>

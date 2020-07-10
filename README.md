@@ -2,8 +2,8 @@
 
 ### Hi there my name is Camilo Parra👋
 
+<a href='https://www.linkedin.com/in/parra-camilo'>Linkedin</a>
 <!--
-**caparra92/caparra92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -1,4 +1,4 @@
-![laptop-1512838_640](https://user-images.githubusercontent.com/19290557/87206601-7b944980-c2e0-11ea-8d6c-a6614cff27fc.png)
+<img src='https://user-images.githubusercontent.com/19290557/87206601-7b944980-c2e0-11ea-8d6c-a6614cff27fc.png'/>
 
 ### Hi there my name is Camilo Parra👋
 

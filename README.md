@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/19290557/87207063-60760980-c2e1-11ea-8e13-1ca181824c70.png" width="360" height="354"/>
+<img src="https://user-images.githubusercontent.com/19290557/87207063-60760980-c2e1-11ea-8e13-1ca181824c70.png" width="300" height="296"/>
 
 ### Hi there my name is Camilo Parra👋
 <hr/>

@@ -3,7 +3,7 @@
 <h2 style="text-align:center;">Hi there, my name is Camilo Parra 👋</h2>
 <hr/>
 
-<a href='https://www.linkedin.com/in/parra-camilo'>Linkedin</a>✨ | <a href='https://parr0124.myportfolio.com/'>Portafolio</a>💻
+<a href='https://www.linkedin.com/in/parra-camilo'>Linkedin</a>✨ | <a href='https://parracamilo.com/'>Portafolio</a>💻
 <hr style="border: 1px solid black"/>
 <p align="justify">Web developer with experience in PHP frameworks like Laravel and frontend development with VueJS.
 Capoeirista for more than 10 years and lover of sports in general.
